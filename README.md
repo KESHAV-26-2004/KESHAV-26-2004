@@ -18,7 +18,8 @@
 ---
 
 ### 📌 Featured Projects
-- 🦷 **Durga Dental Clinic App** – Fullstack staff app (React Native + Firebase)
+- 🧺 **Laundry App** – Mobile app for laundry service (Flutter + Firebase)  
+- 🦷 **Dental Clinic App** – Fullstack staff app (React Native + Firebase)
 - 🤖 **GO UP 2.0 AI** – Q-learning AI vertical jumper in Pygame  
 - 🎮 **GO UP Game** – Original platformer built in Python  
 - 💬 **AI Chatbot** – Built using FLAN-T5 + Flask (integrated into laundry app)  
