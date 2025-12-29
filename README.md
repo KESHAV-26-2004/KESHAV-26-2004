@@ -1,29 +1,34 @@
 <h1 align="center">Hi there, I'm Keshav 👋</h1>
 
 <p align="center">
-  🚀 BTech CSE (AI) Student at Bennett University<br>
-  🛠️ Fullstack Developer (React Native | Flutter | Firebase | MySQL)<br>
-  🧠 AI/ML Explorer (PyTorch, Chatbots, Q-learning)<br>
-  🎮 Game Dev | App Dev | Open Source Enthusiast<br>
+  🚀 BTech Computer Science & Engineering student at Bennett University<br>
+  🛠️ Full-Stack & App Developer (Flutter | React | Firebase | MySQL)<br>
+  🧠 AI/ML Practitioner (PyTorch, FLAN-T5, NLP Pipelines)<br>
+  🎮 Game Dev | System Builder | Project-Driven Learner
 </p>
 
 ---
 
 ### 🧩 Tech Stack
-- **Frontend:** Flutter, React Native, React.js, Next.js, Tailwind, GSAP, Framer Motion  
+- **Frontend:** HTML, CSS, JavaScript, Flutter, React Native, React.js, Next.js, Tailwind CSS, GSAP  
 - **Backend:** Firebase, Flask, MySQL  
-- **AI/ML:** PyTorch, FLAN-T5, Q-learning  
-- **Tools:** Jupyter, NetBeans, Android Studio, Git, VS Code  
+- **AI/ML:** PyTorch, FLAN-T5, NLP, Reinforcement Learning (Q-learning)  
+- **Tools:** Git & GitHub, Jupyter, NetBeans, Android Studio, VS Code  
 
 ---
 
 ### 📌 Featured Projects
-- 🧺 **Laundry App** – Mobile app for laundry service (Flutter + Firebase)  
-- 🦷 **Dental Clinic App** – Fullstack staff app (React Native + Firebase)
-- 🤖 **GO UP 2.0 AI** – Q-learning AI vertical jumper in Pygame  
-- 🎮 **GO UP Game** – Original platformer built in Python  
-- 💬 **AI Chatbot** – Built using FLAN-T5 + Flask (integrated into laundry app)  
-- 🧑‍💻 **Developer Portfolio** – [Live here](https://my-portfolio-keshavs-projects-72997bdc.vercel.app/)
+
+- 🧺 **Laundry Management App** – Flutter + Firebase app with role-based access and real-time order tracking  
+- 💬 **FLAN Laundry Bot** – AI chatbot using FLAN-T5 + Flask, integrated into the laundry app  
+- 🦷 **Clinic Management System** – Java Swing + MySQL desktop app for patients and appointments  
+- 🤖 **AI Insight Pipeline** – Automated data profiling, analysis, and AI-generated reporting system  
+- 🔒 **Deep Adaptive Image Anonymizer (DAIA)** – AI system to detect and anonymize sensitive image regions  
+- 🎮 **GO UP Game** – Original 2D vertical platformer built from scratch in Python (Pygame)  
+- 🏛️ **MuseoSpace** – Interactive virtual museum website built using HTML, CSS, and JavaScript  
+- 📓 **Shared Diary App** – Private diary-sharing web app with React and Firebase authentication  
+- 🌐 **Developer Portfolio** – Animated portfolio website built with Next.js, Tailwind, and GSAP  
+  🔗 [Live here](https://my-portfolio-keshavs-projects-72997bdc.vercel.app/)
 
 ---
 
@@ -31,7 +36,6 @@
 - 📧 Email: [keshukumar49@gmail.com](mailto:keshukumar49@gmail.com)
 - 💼 Portfolio: [my-portfolio-keshavs-projects](https://my-portfolio-keshavs-projects-72997bdc.vercel.app/)
 - 🔗 LinkedIn: [linkedin.com/in/keshav262004](https://linkedin.com/in/keshav262004)
-- 🧠 Resume: Included in my portfolio site
 
 ---
 
@@ -45,4 +49,4 @@
 ---
 
 ### ⚡ Fun Fact  
-At night I build apps, train AI, and imagine game stories before I sleep 😴
+At night I build apps, experiment with AI, and imagine game mechanics before I sleep 😴
