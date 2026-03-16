@@ -8,7 +8,7 @@
 
 <p align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=KESHAV-26-2004\&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=KESHAV-26-2004&color=blue)
 ![GitHub stars](https://img.shields.io/github/stars/KESHAV-26-2004?style=social)
 
 </p>
@@ -39,23 +39,19 @@ I focus heavily on **project-based learning**, building real applications that s
 
 ### 🌐 Frontend
 
-`React` `Next.js` `Flutter` `React Native`
-`Tailwind CSS` `HTML` `CSS` `GSAP`
+`React` `Next.js` `Flutter` `React Native` `Tailwind CSS` `HTML` `CSS` `GSAP`
 
 ### ⚙️ Backend
 
-`Firebase` `Flask` `Node.js` `Express`
-`MySQL` `SQLite`
+`Firebase` `Flask` `Node.js` `Express` `MySQL` `SQLite`
 
 ### 🤖 AI / Machine Learning
 
-`PyTorch` `Transformers` `NLP`
-`Computer Vision` `Reinforcement Learning`
+`PyTorch` `Transformers` `NLP` `Computer Vision` `Reinforcement Learning`
 
 ### 🛠 Tools
 
-`Git` `GitHub` `Jupyter`
-`Android Studio` `VS Code` `NetBeans`
+`Git` `GitHub` `Jupyter` `Android Studio` `VS Code` `NetBeans`
 
 ---
 
@@ -123,6 +119,30 @@ Tech
 
 ---
 
+# 🚀 Highlight Projects
+
+<p align="center">
+
+<a href="https://github.com/KESHAV-26-2004/clinic-management-system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KESHAV-26-2004&repo=clinic-management-system&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/KESHAV-26-2004/ai_insight_pipeline">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KESHAV-26-2004&repo=ai_insight_pipeline&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/KESHAV-26-2004/deep-adaptive-image-anonymizer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KESHAV-26-2004&repo=deep-adaptive-image-anonymizer&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/KESHAV-26-2004/shared-diary-app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KESHAV-26-2004&repo=shared-diary-app&theme=tokyonight"/>
+</a>
+
+</p>
+
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
@@ -131,6 +151,14 @@ Tech
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KESHAV-26-2004&layout=compact&theme=tokyonight" height="170"/>
 
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KESHAV-26-2004&theme=tokyo-night"/>
 </p>
 
 ---
@@ -161,3 +189,9 @@ Tech
 At night I design apps, experiment with AI models, and imagine new game mechanics before sleeping 🎮
 
 ---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/KESHAV-26-2004/KESHAV-26-2004/blob/output/github-contribution-grid-snake.svg"/>
+</p>
