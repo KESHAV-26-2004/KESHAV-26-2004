@@ -82,6 +82,8 @@ Tech
 
 End-to-end AI system that performs dataset profiling, sentiment detection, feature engineering, relation discovery, and generates professional analytical reports.
 
+🔗 https://github.com/KESHAV-26-2004/ai_insight_pipeline
+
 Tech
 `Python` `PyTorch` `Pandas` `Transformers`
 
@@ -90,6 +92,8 @@ Tech
 ### 🔒 Deep Adaptive Image Anonymizer (DAIA)
 
 Computer vision system that detects sensitive regions in images and applies adaptive anonymization filters using EfficientNet.
+
+🔗 https://github.com/KESHAV-26-2004/deep-adaptive-image-anonymizer
 
 Tech
 `Python` `PyTorch` `OpenCV`
@@ -100,6 +104,8 @@ Tech
 
 Private collaborative diary platform where trusted users share thoughts and memories.
 
+🔗 https://github.com/KESHAV-26-2004/shared-diary-app
+
 Tech
 `React` `Firebase` `TypeScript`
 
@@ -109,6 +115,8 @@ Tech
 
 Flutter mobile application enabling students to place laundry orders and staff to manage processing with real-time updates.
 
+🔗 https://github.com/KESHAV-26-2004/laundry-app
+
 Tech
 `Flutter` `Firebase` `Firestore`
 
@@ -117,6 +125,8 @@ Tech
 ### 🎮 GO UP – 2D Platformer Game
 
 Original vertical platformer built in Python using Pygame with procedural platforms and game physics.
+
+🔗 https://github.com/KESHAV-26-2004/GOUP
 
 Tech
 `Python` `Pygame`
