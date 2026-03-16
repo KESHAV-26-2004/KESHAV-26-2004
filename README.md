@@ -17,7 +17,9 @@
 
 # 🚀 About Me
 
-I enjoy building **complete systems from scratch** — combining **software engineering, AI, and interactive experiences**.
+I enjoy building complete systems from scratch — combining software engineering, AI, and interactive experiences.
+
+Most of my projects focus on **real-world systems**, where backend architecture, AI models, and user experience come together.
 
 My projects span across:
 
@@ -55,11 +57,21 @@ I focus heavily on **project-based learning**, building real applications that s
 
 ---
 
+# 📚 Currently Exploring
+
+- DevOps & deployment pipelines
+- Advanced AI systems and model pipelines
+- System design for scalable applications
+
+---
+
 # 📌 Featured Projects
 
 ### 🏥 Clinic Management System (Full Stack)
 
 Full-stack healthcare platform for managing patients, visits, prescriptions, billing, and queue workflow.
+
+🔗 https://github.com/KESHAV-26-2004/clinic-management-system
 
 Tech
 `React` `Node.js` `Express` `SQLite`
