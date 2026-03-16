@@ -215,5 +215,5 @@ At night I design apps, experiment with AI models, and imagine new game mechanic
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/KESHAV-26-2004/KESHAV-26-2004/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/KESHAV-26-2004/KESHAV-26-2004/output/github-contribution-grid-snake.svg" width="100%"/>
 </p>
