@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 B.Tech Computer Science & Engineering — Bennett University <br>
-🚀 Full-Stack Developer | AI Engineer | System Builder <br>
+🚀 Full-Stack Developer | AI Engineer | Vision Systems Builder <br>
 🎮 Game Dev Enthusiast | Project-Driven Learner
 </p>
 
@@ -59,24 +59,13 @@ I focus heavily on **project-based learning**, building real applications that s
 
 # 📚 Currently Exploring
 
-- DevOps & deployment pipelines
-- Advanced AI systems and model pipelines
-- System design for scalable applications
+- DevOps & deployment pipelines  
+- Computer Vision & imaging systems  
+- Scalable backend architecture
 
 ---
 
 # 📌 Featured Projects
-
-### 🏥 Clinic Management System (Full Stack)
-
-Full-stack healthcare platform for managing patients, visits, prescriptions, billing, and queue workflow.
-
-🔗 https://github.com/KESHAV-26-2004/clinic-management-system
-
-Tech
-`React` `Node.js` `Express` `SQLite`
-
----
 
 ### 🤖 AI Insight Pipeline
 
@@ -86,6 +75,28 @@ End-to-end AI system that performs dataset profiling, sentiment detection, featu
 
 Tech
 `Python` `PyTorch` `Pandas` `Transformers`
+
+---
+
+### 📷 Advanced ISP Pipeline
+
+Research-grade camera ISP pipeline that converts RAW Bayer data into high-quality RGB images using demosaicing, white balance, color correction, exposure tuning, and gamma rendering.
+
+🔗 https://github.com/KESHAV-26-2004/Advanced-ISP-Pipeline
+
+Tech  
+`Python` `OpenCV` `NumPy` `Image Processing` `Computer Vision`
+
+---
+
+### 🏥 Clinic Management System (Full Stack)
+
+Full-stack healthcare platform for managing patients, visits, prescriptions, billing, and queue workflow.
+
+🔗 https://github.com/KESHAV-26-2004/clinic-management-system
+
+Tech
+`React` `Node.js` `Express` `SQLite`
 
 ---
 
@@ -153,12 +164,12 @@ Tech
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KESHAV-26-2004&repo=ai_insight_pipeline&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/KESHAV-26-2004/deep-adaptive-image-anonymizer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KESHAV-26-2004&repo=deep-adaptive-image-anonymizer&theme=tokyonight"/>
+<a href="https://github.com/KESHAV-26-2004/Advanced-ISP-Pipeline">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KESHAV-26-2004&repo=Advanced-ISP-Pipeline&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/KESHAV-26-2004/shared-diary-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KESHAV-26-2004&repo=shared-diary-app&theme=tokyonight"/>
+<a href="https://github.com/KESHAV-26-2004/deep-adaptive-image-anonymizer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KESHAV-26-2004&repo=deep-adaptive-image-anonymizer&theme=tokyonight"/>
 </a>
 
 </p>
@@ -202,7 +213,7 @@ Tech
 [https://linkedin.com/in/keshav262004](https://linkedin.com/in/keshav262004)
 
 🌐 Portfolio
-[https://my-portfolio-keshavs-projects-72997bdc.vercel.app/](https://my-portfolio-keshavs-projects-72997bdc.vercel.app/)
+[https://my-portfolio-six-smoky-95.vercel.app/](https://my-portfolio-six-smoky-95.vercel.app/)
 
 ---
 
